@@ -1,5 +1,7 @@
 # Магазин футболок
 
+https://shop-tshirt.vercel.app/
+
 ## Запуск проекта в режиме разроботки
 
 ```JavaScript
